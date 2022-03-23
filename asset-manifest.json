@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/AppleProduct/static/css/main.e8a160fc.chunk.css",
+    "main.js": "/AppleProduct/static/js/main.d9be2728.chunk.js",
+    "main.js.map": "/AppleProduct/static/js/main.d9be2728.chunk.js.map",
+    "runtime-main.js": "/AppleProduct/static/js/runtime-main.33c596ff.js",
+    "runtime-main.js.map": "/AppleProduct/static/js/runtime-main.33c596ff.js.map",
+    "static/css/2.818011ed.chunk.css": "/AppleProduct/static/css/2.818011ed.chunk.css",
+    "static/js/2.ec430791.chunk.js": "/AppleProduct/static/js/2.ec430791.chunk.js",
+    "static/js/2.ec430791.chunk.js.map": "/AppleProduct/static/js/2.ec430791.chunk.js.map",
+    "static/js/3.744a47c4.chunk.js": "/AppleProduct/static/js/3.744a47c4.chunk.js",
+    "static/js/3.744a47c4.chunk.js.map": "/AppleProduct/static/js/3.744a47c4.chunk.js.map",
+    "index.html": "/AppleProduct/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/AppleProduct/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.e8a160fc.chunk.css.map": "/AppleProduct/static/css/main.e8a160fc.chunk.css.map",
+    "static/js/2.ec430791.chunk.js.LICENSE.txt": "/AppleProduct/static/js/2.ec430791.chunk.js.LICENSE.txt",
+    "static/media/logo.983722aa.jpg": "/AppleProduct/static/media/logo.983722aa.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33c596ff.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.ec430791.chunk.js",
+    "static/css/main.e8a160fc.chunk.css",
+    "static/js/main.d9be2728.chunk.js"
+  ]
+}
